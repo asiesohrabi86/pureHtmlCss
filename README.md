@@ -1,0 +1,1 @@
+this is a responsive spa with pure html & css even flex and grid features are not used.
